@@ -11,4 +11,5 @@ onde você realizou o download deste arquivo, normalmente /home/SEU_USUÁRIO/Dow
 3- Após entrar na pasta onde está o arquivo, execute o código abaixo:
 
 sudo chmod u+x install_stremio.sh
+
 sudo bash install_stremio.sh
